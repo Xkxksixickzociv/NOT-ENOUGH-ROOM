@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marks.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marks0000" x="50" y="50" width="693" height="638"/>
+	<SubTexture name="marks0001" x="50" y="50" width="693" height="638"/>
+	<SubTexture name="marks0002" x="843" y="50" width="693" height="638"/>
+	<SubTexture name="marks0003" x="843" y="50" width="693" height="638"/>
+	<SubTexture name="marks0004" x="1636" y="50" width="693" height="638"/>
+	<SubTexture name="marks0005" x="1636" y="50" width="693" height="638"/>
+	<SubTexture name="marks0006" x="2429" y="50" width="693" height="638"/>
+	<SubTexture name="marks0007" x="2429" y="50" width="693" height="638"/>
+	<SubTexture name="marks0008" x="3222" y="50" width="693" height="638"/>
+	<SubTexture name="marks0009" x="3222" y="50" width="693" height="638"/>
+	<SubTexture name="marks0010" x="3222" y="50" width="693" height="638"/>
+	<SubTexture name="marks0011" x="3222" y="50" width="693" height="638"/>
+	<SubTexture name="marks0012" x="3222" y="50" width="693" height="638"/>
+	<SubTexture name="marks0013" x="3222" y="50" width="693" height="638"/>
+	<SubTexture name="marks0014" x="3222" y="50" width="693" height="638"/>
+</TextureAtlas>
